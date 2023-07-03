@@ -34,7 +34,7 @@ public class EmpresaServlet extends HttpServlet {
 		
 		
 		//url configurada neste servlet para teste: http://localhost:8080/stw/kenametalEmpresa
-		//url configurada neste servlet para teste com envio de parâmetro: http://localhost:8080/stw/kenametalEmpresa=?nome=Claro
+		//url configurada neste servlet para teste com envio de parâmetro: http://localhost:8080/stw/kenametalEmpresa=?nome=Teste
 		
 		
 		
